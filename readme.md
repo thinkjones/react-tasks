@@ -73,6 +73,14 @@ Stars here [http://localhost:5173/](http://localhost:5173/)
 | Frontend REST Client | Axios               |
 | Frontend UI Library  | AntD                |
 
+# TODOs
+* Productionize code - this is more a prototype I would tidy it up a lot more, add tests etc.
+* Pagination - No pagination on tasks.
+* Sorting - Client side - would move to server.
+* Testing - There are no tests would add some front and back.
+* Auth - There is no authentication would add and store data with userId - at present there is none.
+
+
 
 
 
